@@ -1,1 +1,1 @@
-worker : npm start && nide index.js
+worker : npm start && node index.js
