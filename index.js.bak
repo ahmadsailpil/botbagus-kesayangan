@@ -13,7 +13,7 @@ CFonts.say('𝘼𝙎𝙀𝙋-MD\n 𝙗𝙮.𝙧𝙞𝙙𝙝𝙤', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`SUBSCRIBE CHANNEL 𝙊𝙃𝙇𝙓 𝙂𝙏`, {                                            
+CFonts.say(`𝙎𝘼𝙇𝘼𝙈 𝘼𝙎𝙀𝙋 𝘽𝙊𝙏𝙕`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })

@@ -10284,7 +10284,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 20361,
+      "exp": 23308,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -12219,7 +12219,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 213,
+      "exp": 215,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -13257,7 +13257,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 685,
+      "exp": 696,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -14529,7 +14529,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 284,
+      "exp": 332,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -18625,16 +18625,16 @@
       "lastSuccess": 1661060967545
     },
     "main-menu.js": {
-      "total": 71,
-      "success": 71,
-      "last": 1661446082007,
-      "lastSuccess": 1661446082007
+      "total": 108,
+      "success": 104,
+      "last": 1661512951418,
+      "lastSuccess": 1661512951418
     },
     "info-creator_ans.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1661254546781,
-      "lastSuccess": 1661254546781
+      "total": 4,
+      "success": 4,
+      "last": 1661488972984,
+      "lastSuccess": 1661488972984
     },
     "main-bot.js": {
       "total": 7,
@@ -18673,10 +18673,10 @@
       "lastSuccess": 1661251729187
     },
     "info-boost.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1661446057529,
-      "lastSuccess": 1661446057529
+      "total": 29,
+      "success": 29,
+      "last": 1661512583707,
+      "lastSuccess": 1661512583707
     },
     "main-bebanjoin.js": {
       "total": 2,
@@ -18781,10 +18781,10 @@
       "lastSuccess": 0
     },
     "info-creator.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1661254559176,
-      "lastSuccess": 1661254559176
+      "total": 4,
+      "success": 4,
+      "last": 1661488992426,
+      "lastSuccess": 1661488992426
     },
     "xp-unreg.js": {
       "total": 2,
@@ -18793,16 +18793,16 @@
       "lastSuccess": 1661254891644
     },
     "owner-self.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1661446040219,
-      "lastSuccess": 1661446040219
+      "total": 6,
+      "success": 6,
+      "last": 1661512957695,
+      "lastSuccess": 1661512957695
     },
     "main-iyah.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1661384314369,
-      "lastSuccess": 1661384314369
+      "total": 5,
+      "success": 5,
+      "last": 1661495356982,
+      "lastSuccess": 1661495356982
     },
     "main-nyimak.js": {
       "total": 2,
@@ -18943,16 +18943,16 @@
       "lastSuccess": 1661439803904
     },
     "jadwal-senin.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1661446091750,
-      "lastSuccess": 1661446091750
+      "total": 27,
+      "success": 20,
+      "last": 1661512898535,
+      "lastSuccess": 1661512898535
     },
     "jadwal-selasa.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1661446098740,
-      "lastSuccess": 1661446098740
+      "total": 7,
+      "success": 7,
+      "last": 1661496310885,
+      "lastSuccess": 1661496310885
     },
     "jadwal-rabu.js": {
       "total": 3,
@@ -18967,10 +18967,76 @@
       "lastSuccess": 1661446116806
     },
     "jadwal-kamis.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1661494513731,
+      "lastSuccess": 1661494513731
+    },
+    "game-iqtest.js": {
       "total": 3,
       "success": 3,
-      "last": 1661446109306,
-      "lastSuccess": 1661446109306
+      "last": 1661489756208,
+      "lastSuccess": 1661489756208
+    },
+    "owner-getplugins.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661490143186,
+      "lastSuccess": 1661490143186
+    },
+    "info-runtime.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661490230205,
+      "lastSuccess": 1661490230205
+    },
+    "solat.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1661490987291,
+      "lastSuccess": 1661490987291
+    },
+    "main-huuu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661490892214,
+      "lastSuccess": 1661490892214
+    },
+    "main-jadwal.js": {
+      "total": 31,
+      "success": 26,
+      "last": 1661495722281,
+      "lastSuccess": 1661495722281
+    },
+    "main-pilih.js": {
+      "total": 12,
+      "success": 12,
+      "last": 1661494929593,
+      "lastSuccess": 1661494929593
+    },
+    "main-pilihjadwal.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1661512891451,
+      "lastSuccess": 1661512891451
+    },
+    "main-antitoxic.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661512923939,
+      "lastSuccess": 1661512923939
+    },
+    "main-suci.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661512917602,
+      "lastSuccess": 1661512917602
+    },
+    "main-ripan.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661512919972,
+      "lastSuccess": 1661512919972
     }
   },
   "msgs": {},
